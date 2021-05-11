@@ -19,6 +19,7 @@
           { href: "https://www.github.com/ChristianCoenen", desc: "Github" },
           { href: "mailto:coenen.christian@outlook.com", desc: "Reach out" },
         ],
+        image: "me.png"
       },
     ],
   });
@@ -91,6 +92,7 @@
             desc: "our YouTube channel",
           },
         ],
+        image: "contentautomation.png"
       },
       {
         header: "Master's degree in Computer Science 🎓",
