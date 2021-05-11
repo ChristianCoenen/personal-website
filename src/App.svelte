@@ -12,7 +12,7 @@
         body:
                 "<b>Hey, I'm Chris.</b> I love to <pre style='display:inline;font-size:16px'>CODE</pre> " +
                 "and to solve problems. |I work best in open, creative and supportive environments. " +
-                "|If you scroll down the Timeline, you can find a history of some projects and achievements " +
+                "|If you scroll down the timeline, you can find a history of some projects and achievements " +
                 "I'm particularly proud of 😊.||{0}|{1}",
         list: [],
         links: [
@@ -28,7 +28,7 @@
     label: "Ongoing",
     content: [
       {
-        header: "Content Creation on YouTube 👨‍💻",
+        header: "Content Creation on YouTube 👨🏻‍💻",
         body:
                 "During the end of 2019, my desire to create something that helps people is some way grew " +
                 "significantly. So I decided to create {0}, a YouTube channel with a focus on " +
@@ -56,7 +56,7 @@
     label: "2021",
     content: [
       {
-        header: "A fully automated YouTube Channel?! 👨‍💻",
+        header: "A fully automated YouTube Channel?! 🧑🏻‍💻",
         body:
                 "In 2020, two fellow students and I decided to create a fully autonomous YouTube channel. " +
                 "||To achieve this, we wrote a program that created gaming compilations from clipped Twitch scenes " +
@@ -65,7 +65,7 @@
                 "a given video to our YouTube channel. Finally, we deployed everything on AWS to achieve " +
                 "full automation and let it run for 100 days." +
                 "||In 2021, after the experiment was over, we documented everything properly, published the {2} " +
-                "and posted about it on {0}, where the {1} got over 1000 upvotes. At the time of writing (May 2021)," +
+                "and posted about it on {0}, where the {1} got over 1000 upvotes. At the time of writing (May 2021), " +
                 "the repositories received over 200 ⭐ on GitHub." +
                 "||So what did we achieve?",
         list: [
@@ -207,7 +207,7 @@
         ],
       },
       {
-        header: "Design Thinking Project - Fampedia 👨‍💻🌍",
+        header: "Design Thinking Project - Fampedia 🧑🏻‍💻🌍",
         body:
                 "During an international design thinking course, our team was tasked to develop a product that is " +
                 "related to graveyards. We had some initial problems because our ideas for graveyards, " +
@@ -315,7 +315,7 @@
     label: "2017",
     content: [
       {
-        header: "Project Semester - Botforge 👨‍💻",
+        header: "Project Semester - Botforge 🧑🏻‍💻",
         body:
                 "At the University of Applied Sciences in Mannheim, the fourth semester is always something special. " +
                 "For the first time students get to work with a real company on a real project " +
