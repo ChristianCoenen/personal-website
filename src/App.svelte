@@ -17,7 +17,7 @@
         list: [],
         links: [
           { href: "https://www.github.com/ChristianCoenen", desc: "Github" },
-          { href: "mailto:coenen.christian@outlook.com", desc: "Reach out" },
+          { href: "https://www.linkedin.com/in/christian-coenen/detail/contact-info/", desc: "Reach out" },
         ],
         image: "me.png"
       },
