@@ -194,8 +194,7 @@
                 "(bachelor, GPA: 3.6)." +
                 "||Thesis: <i> Development of a concept to integrate MDF-4 in TensorFlow </i>" +
                 "||Sadly, I cannot publish the thesis due to a non-disclosure agreement with {0} " +
-                "(the company for which I wrote the thesis)." +
-                "||Courses:",
+                "(the company for which I wrote the thesis).",
         links: [
           {
             href: "https://www.vector.com/",
