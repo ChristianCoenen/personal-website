@@ -202,9 +202,6 @@
             desc: "Vector",
           },
         ],
-        list: [
-          "TODO"
-        ],
       },
       {
         header: "Design Thinking Project - Fampedia 🧑🏻‍💻🌍",
