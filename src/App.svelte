@@ -116,6 +116,7 @@
           "Container Technology",
           "Compilers",
           "Mobile Software Engineering",
+          "Software Architecture",
           "Software Development Processes",
           "Software Quality Management",
           "Software Engineering Project",
