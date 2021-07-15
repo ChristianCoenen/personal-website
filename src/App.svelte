@@ -165,7 +165,7 @@
             desc: "official website",
           },
           {
-            href: "https://www.basf.com/global/en/topics/first-quarter-results-2021.html",
+            href: "https://www.basf.com/global/en.html",
             desc: "BASF",
           },
         ],
